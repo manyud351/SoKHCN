@@ -1,0 +1,13 @@
+D:\Projects\IDC\SoKHCN\SoKHCN\KHCNCT.Web\obj\Debug\KHCNCT.Web.csprojResolveAssemblyReference.cache
+D:\Projects\IDC\SoKHCN\SoKHCN\KHCNCT.Web\bin\KHCNCT.Web.dll
+D:\Projects\IDC\SoKHCN\SoKHCN\KHCNCT.Web\bin\KHCNCT.Web.pdb
+D:\Projects\IDC\SoKHCN\SoKHCN\KHCNCT.Web\bin\KHCNCT.Data.dll
+D:\Projects\IDC\SoKHCN\SoKHCN\KHCNCT.Web\bin\KHCNCT.Globals.dll
+D:\Projects\IDC\SoKHCN\SoKHCN\KHCNCT.Web\bin\NT.Lib.dll
+D:\Projects\IDC\SoKHCN\SoKHCN\KHCNCT.Web\bin\KHCNCT.Data.pdb
+D:\Projects\IDC\SoKHCN\SoKHCN\KHCNCT.Web\bin\KHCNCT.Globals.pdb
+D:\Projects\IDC\SoKHCN\SoKHCN\KHCNCT.Web\bin\NT.Lib.pdb
+D:\Projects\IDC\SoKHCN\SoKHCN\KHCNCT.Web\obj\Debug\KHCNCT.Web.dll
+D:\Projects\IDC\SoKHCN\SoKHCN\KHCNCT.Web\obj\Debug\KHCNCT.Web.pdb
+D:\Projects\IDC\SoKHCN\SoKHCN\KHCNCT.Web\bin\KHCNCT.Configuration.dll
+D:\Projects\IDC\SoKHCN\SoKHCN\KHCNCT.Web\bin\KHCNCT.Configuration.pdb

@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" Inherits="IDC.Module.Video.DesktopModules_VIDEO_videocounter" Codebehind="videocounter.aspx.cs" %>
